@@ -1,0 +1,57 @@
+{
+	"catItems" : 
+	[
+		
+		{
+			"name" : "The PurrDetector",
+			"price" : "$12.99",
+			"details" : ["Fun for Everyone!", 
+						 "Glows with each purr!",
+						 "Provides nighttime safety and visibility!"],
+			"image" : "purrdetector.jpg"
+		},
+
+
+		{
+			"name" : "Why Cats Paint",
+			"price" : "$14.99",
+			"details" : ["Feline paintings will make you paws", 
+						 "Informative & Humourous",
+						 "Paperback Novel: 96 pages"],
+			"image" : "whycatspaint.jpg"
+		},	
+
+
+		{
+			"name" : "Kookamunga Krazee Kitty Catnip Bubbles",
+			"price" : "$49.99",
+			"details" : ["Made with premium quality catnip to ensure cat's have a totally Kookamunga time!!", 
+						 "Great for hours of interactive play fun!",
+						 "Cat fun doesn't get any better than this!"],
+			"image" : "catbubbles.jpg"
+		},
+
+
+		{
+			"name" : "Paul & Joe - Anniversary Makeup Collection",
+			"price" : "$59.99",
+			"details" : ["Purrrrfect for Cat Lovers!", 
+						 "Paw-sitively adorable!!",
+						 "Get yours right Meow!"],
+			"image" : "catlipstick.jpg"
+		},		
+
+
+		{
+			"name" : "The Meowlingual Cat Translation Device",
+			"price" : "$326.99",
+			"details" : ["Decode what your cat is telling you!", 
+						 "Meowlingual can analyze the expression on your feline friend's furry face and categorize it into six different moods!",
+						 "The Meowlingual translates around 200 words in cat chat"],
+			"image" : "meowlingual.jpg"
+		}
+
+
+	]
+
+}
